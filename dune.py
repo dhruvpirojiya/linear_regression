@@ -37,7 +37,7 @@ print(df)
 
 
 # implementation of linear regression 
-print('hello dp')
+print('hello dpro')
 
 y1 = pd.array(df['Close'])
 
